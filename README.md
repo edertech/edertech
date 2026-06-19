@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-Thank you for visiting my GitHub profile!
+**Senior Software Engineer** — Java, Spring Boot, enterprise systems.
 
-Please note that this GitHub account is now deprecated. For my latest projects, updates, and to connect with me, please visit my [GitLab profile](https://gitlab.com/ederson-itabaiana).
-You can also visit my [Portfolio](https://ederson.edertech.com.br/)
+I primarily develop on [GitLab](https://gitlab.com/ederson-itabaiana), where you'll find my latest open-source projects and the source code for my portfolio. My repositories are mirrored here for visibility.
 
-Feel free to explore my work and connect with me there. I look forward to continuing our interactions and collaborations on GitLab!
+- 🗂️ [Portfolio](https://ederson.edertech.com.br/)
+- 🔗 [GitLab](https://gitlab.com/ederson-itabaiana)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ederson-itabaiana)
 
-Best regards,
-Ederson
+---
 
-
+> *Note: This GitHub account serves as a mirror of my primary development activity on GitLab. Repositories are synced automatically.*
